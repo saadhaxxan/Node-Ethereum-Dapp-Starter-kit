@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Node-Ethereum-Dapp-Starter-kit<br>
-	<img src="https://miro.medium.com/max/4000/0*yqbRInqX0ZRUlVS0">
+	<img src="https://miro.medium.com/max/4000/0*yqbRInqX0ZRUlVS0" height="200px">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
 	</h1>
 </div>
