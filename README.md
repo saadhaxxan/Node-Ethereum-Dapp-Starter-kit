@@ -19,7 +19,6 @@ git clone https://github.com/saadhaxxan/Node-Ethereum-Dapp-Starter-kit.git
 cd Node-Ethereum-Dapp-Starter-kit
 npm install
 npm install -g truffle
-npm install web3
 truffle compile
 truffle migrate
 npm start
