@@ -22,6 +22,7 @@ npm install -g truffle
 npm install -g web3
 truffle compile
 truffle migrate
+npm start
 ```
 
 
